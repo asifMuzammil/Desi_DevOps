@@ -1,0 +1,1 @@
+Here’s how you can create a scenario to test this task locally with GitHub Actions. The task involves multiple repositories, each containing a random text file, and the workflow will check if the text file exists and whether specific keywords are present.
