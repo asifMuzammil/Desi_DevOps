@@ -4,7 +4,7 @@
 
 ## Linux file system kya hota hai?
 
-Linux file system woh nizaam hai jo files aur folders ko **store, organize aur manage**karta hai.
+Linux file system woh nizaam hai jo files aur folders ko **store, organize aur manage** karta hai.
 
 Simple lafzon mein:
 
